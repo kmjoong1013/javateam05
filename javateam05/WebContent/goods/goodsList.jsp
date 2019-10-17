@@ -37,6 +37,6 @@
 			</c:otherwise>
 		</c:choose>
 	</table>
-<a href="goodsInsForm.do">상품등록</a>	
+<a href="goodsInsForm.jsp">상품등록</a>	
 </body>
 </html>
